@@ -13,8 +13,9 @@ Approach was to use the stack underflow from today's lecture to cause the index 
 Asking GPT wtf Big O is, it said that this could be more efficient if I were to use Collections.reverse(list); then array = list.toArray(array); since this wouldn't create a new array therefore being more computationally and memory efficient. If you ever wanted to ask someone "why?" 1000 times in a row and not get murdered...
 
 ## Solution
-
+``` java
 public class Main {
+
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5, 6};
         int[] reversedArr = reverseArray(arr);
@@ -33,3 +34,4 @@ public class Main {
         return reversedArr;
     }
 }
+```
