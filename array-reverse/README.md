@@ -20,7 +20,6 @@ public class Main {
         int[] arr = {1, 2, 3, 4, 5, 6};
         int[] reversedArr = reverseArray(arr);
 
-        // Print the reversed array
         for (int i : reversedArr) {
             System.out.print(i + " ");
         }
