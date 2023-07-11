@@ -3,7 +3,8 @@
 Given an array of any size reverse that array as the return of a function without using any built-in methods.
 
 ## Whiteboard Process
-![Alt text](https://file%252B.vscode-resource.vscode-cdn.net/Users/cooper/Desktop/Screenshot%25202023-07-10%2520at%252011.27.58%2520PM.png?version%253D1689060654459)
+
+<img width="711" alt="Screenshot 2023-07-10 at 11 27 58 PM" src="https://github.com/Cooper-Softdev/401-data-structures-and-algorithms/assets/73309872/8198ebd9-d180-430f-b458-58d486b579a1">
 
 ## Approach & Efficiency
 
